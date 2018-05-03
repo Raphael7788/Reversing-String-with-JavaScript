@@ -1,5 +1,5 @@
-ENGLISH:
 # Reversing-String-with-JavaScript
+ENGLISH:
 Just to have fun with simple JavaScript code
 
 RUSSIA:
